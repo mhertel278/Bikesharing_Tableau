@@ -13,32 +13,32 @@ I used Tableau Public to create a story from the visualizations requested.  Imag
 ## Results
 
 - User Type
-![user type]("resources/slide_1.png")
+![user type](resources/slide_1.png)
 - User Gender
-![user gender]("resources/slide_3.png")
+![user gender](resources/slide_3.png)
 - Trip Length
     - All users
 
-    ![trip length]("resources/slide_2.png")
+    ![trip length](resources/slide_2.png)
 
     - Effect of Gender
-    ![length by gender]("resources/slide_4.png")
+    ![length by gender](resources/slide_4.png)
 - Trip Purpose
 
     - Time of Day
-    ![start time]("resources/slide_5.png")
+    ![start time](resources/slide_5.png)
     - Day of the Week
-    ![trip day]("resources/slide_6.png")
+    ![trip day](resources/slide_6.png)
     - Effect of Gender
-    ![trip day gender]("resources/slide_7.png")
-    ![female]("resources/slide_7a.png") 
-    ![male]("resources/slide_7b.png")
+    ![trip day gender](resources/slide_7.png)
+    ![female](resources/slide_7a.png) 
+    ![male](resources/slide_7b.png)
     - Effect of User Type
-    ![subscribers]("resources/slide_8a.png")
-    ![non-subscribers]("resources/slide_8b.png")
+    ![subscribers](resources/slide_8a.png)
+    ![non-subscribers](resources/slide_8b.png)
 
 - Trip Location
-![location]("resources/slide_9.png")
+![location](resources/slide_9.png)
 ## Summary
 
 
