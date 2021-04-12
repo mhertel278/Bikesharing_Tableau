@@ -76,8 +76,23 @@ This indicates the client in Des Moines should focus promotions on getting male 
 
 - Trip Location
 
+The map below plots each of the bike stations on a map of New York, with larger markers representing more rides originating from that location.  It is clear in this visualization that most rides in New York originate in Manhattan, with areas along the coast close to Manhattan in other buroughs also seing many rides.  
+
 ![location](resources/slide_9.png)
+
+Manhattan is both densely populated and has many businesses, so rides are likely starting and ending within the burough for people living there and commuting a short distance to work.  The high number of trips originating along coastlines of  other buroughs could due to people driving longer distances to near Manhattan, then using a bike to commute into Manhattan.
+
+This indicates that the client in Des Moines should place most stations in areas around a downtown or other business hub, as well as placing a few centerally in more residential areas.  This would provide locations from which to begin their commute to work.
+
 ## Summary
+
+In conclusion, the data taken from Citi Bike in New York City indicates that most rides are taken by customers who subscribe to the service to use for work commuting.  If Des Moines is likely to follow suit, then the client there should focus building the infastructure and promotions for their business around commuters.
+
+However, New York City has a long tradition of public transportion such as buses and subways.  Consumers' habits were already shaped around commuting via public transport rather than individual cars.  This likely made the adoption of bike sharing an easy transition that allowed companies like Citi Bike to find quick success.  
+
+It would be helpful for the client to examine Des Moines usage of public transportation in comparison to New York's.  By acquring data on how workers commute in both New York and Des Moines, a grouped bar chart showing New York and Des Moines usage side by side for transportation types such as bus, cab, train, and personal automobile could clarify whether Des Moines commuters might be as likely to adopt bike sharing as prominently.  If Des Moines usage of personal automobile over various public transportation types is proportionally higher than New York's, then Des Moines workers might be less likely to adopt the bike sharing option.  Thus, the client in Des Moines might need to take a different strategy in promotion and infastructure.  However, if Des Moines residents show a similarly strong usage of public transport over car, then the client would do well to plan around commuting workers, using New York as a model.
+
+Another helpful visualization would be a bar graph showing the total population of New York along side the number of Citi Bike subscribers.  This could provide insight into what percentage of the population is likely to use the service, allowing the client in Des Moines to scale the business to an effective size for Des Moines' population.
 
 
 
