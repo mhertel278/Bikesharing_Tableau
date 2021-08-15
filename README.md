@@ -2,13 +2,13 @@
 
 ## Resources
 
-Tableau Public 2021.1, CSV of Citi Bike ride data from August 2019
+Tableau Public 2021.1, CSV of Citi Bike ride data from August 2019, Python-pandas, jupyter notebook
 
 ## Overview
 
 Inspired by the success of bikesharing services across the country, a client wishes to start a bikesharing company in Des Moines, Iowa.  To gain some insights in preparation to start this business, the client requested visualizations of data collected by Citi Bike in New York City for the month of August, 2019.  From these visualizations the client wants to gain insights into whether gender affects ridership, want times of day and what days of week are the busiest, and thus what riders are likely using the bikes for.  This will help the client target and scale their business in Des Moines.
 
-I used Tableau Public to create a story from the visualizations requested.  Images of the visuals used are copied below, and the full Tableau Story can be viewed [here](https://public.tableau.com/profile/michael.hertel#!/vizhome/NYCCitiBikeChallenge_16181110490760/Story1).
+I first used pandas to explore the data in the csv file and convert data types, shown in the NYC_CitiBike_cleaning.ipynb file.  I then used Tableau Public to create a story from the visualizations requested.  Images of the visuals used are copied below, and the full Tableau Story can be viewed [here](https://public.tableau.com/profile/michael.hertel#!/vizhome/NYCCitiBikeChallenge_16181110490760/Story1).
 
 ## Results
 
